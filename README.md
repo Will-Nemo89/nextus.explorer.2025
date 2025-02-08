@@ -67,4 +67,4 @@ License
 
 This project is open-source under the MIT License.
 
-🔗 Live Demo: [Add link after deployment]
+🔗 Live Demo: (https://fractallifepathexplorer2025.streamlit.app/)
